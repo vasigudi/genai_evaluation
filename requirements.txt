@@ -1,0 +1,22 @@
+# genaievaluation/requirements.txt
+# Data Handling
+pandas
+numpy
+
+# Embeddings and NLP
+sentence-transformers
+transformers
+nltk
+
+# Metrics
+rouge-score
+scikit-learn
+
+# Deep Learning 
+torch==2.3.0
+torchvision==0.18.0
+torchaudio==2.3.0
+
+# Miscellaneous
+tqdm
+
